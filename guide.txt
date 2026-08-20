@@ -16,3 +16,31 @@ Promise
 async/await
 Closure
 ES6 Modules
+
+
+1. TypeScript Introduction
+2. Basic Types
+3. Arrays
+4. Functions
+5. Object Types
+6. Type Alias
+7. Interface
+8. Union Types
+9. Literal Types
+10. Type Narrowing
+11. Optional / readonly
+12. Intersection Types
+13. Tuple
+14. Enum
+15. Generics
+16. Utility Types
+17. keyof / typeof
+18. Type Guards
+19. Mapped Types
+20. Conditional Types
+21. Advanced Generics
+22. TypeScript + React
+23. TypeScript + Node/Express
+24. TypeScript + MongoDB
+25. TypeScript + Next.js
+26. Real-world Full Stack Project
