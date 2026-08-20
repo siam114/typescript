@@ -1,0 +1,18 @@
+let, const
+Data Types
+Function
+Array
+Object
+map()
+filter()
+reduce()
+find()
+Destructuring
+Spread / Rest
+Template literals
+Arrow function
+Callback
+Promise
+async/await
+Closure
+ES6 Modules
