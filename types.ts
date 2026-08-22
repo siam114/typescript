@@ -22,3 +22,8 @@ console.log(names);
 names.push('abdul')
 
 console.log(names);
+
+
+const shoppingCart:[string,number] = ['siam',100]
+
+console.log(shoppingCart);

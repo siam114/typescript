@@ -11,3 +11,5 @@ const names = ['abul', 'kobul'];
 console.log(names);
 names.push('abdul');
 console.log(names);
+const shoppingCart = ['siam', 100];
+console.log(shoppingCart);
