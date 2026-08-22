@@ -4,4 +4,12 @@ const stock: number = 100;
 
 const isActive: boolean = false
 
-console.log(district);
+// console.log(district);
+
+
+const marks:number[] = [1,2,3,4,5]
+
+console.log(marks);
+
+marks.push(6);
+console.log(marks);
