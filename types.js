@@ -7,3 +7,7 @@ const marks = [1, 2, 3, 4, 5];
 console.log(marks);
 marks.push(6);
 console.log(marks);
+const names = ['abul', 'kobul'];
+console.log(names);
+names.push('abdul');
+console.log(names);

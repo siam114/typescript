@@ -13,3 +13,12 @@ console.log(marks);
 
 marks.push(6);
 console.log(marks);
+
+
+const names:string[] = ['abul','kobul']
+
+console.log(names);
+
+names.push('abdul')
+
+console.log(names);
